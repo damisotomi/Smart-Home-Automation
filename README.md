@@ -3,8 +3,8 @@ A Gesture-Controlled Smart Home System using computer vision. Detects hand gestu
 
 # Gesture-Controlled Smart Home Automation System
 
-##  This project implements a Gesture-Controlled Smart Home System using computer vision techniques. Hand gestures are detected in real-time with OpenCV and MediaPipe, enabling intuitive control of household devices via Raspberry Pi and Arduino.
-    Features
+This project implements a Gesture-Controlled Smart Home System using computer vision techniques. Hand gestures are detected in real-time with OpenCV and MediaPipe, enabling intuitive control of household devices via Raspberry Pi and Arduino.
+Features
 
     Recognizes specific hand gestures for controlling lights, fans, doors, and more.
     Utilizes Raspberry Pi for gesture detection and Arduino for device control.
@@ -19,7 +19,7 @@ A Gesture-Controlled Smart Home System using computer vision. Detects hand gestu
 
 ## Demo
 
-Check out the video demo to see the system in action!
+Check out the [video demo](https://drive.google.com/file/d/1UaWGHaEX4hL6Kux5r6ngY5HkMJWoMf6p/view?usp=drive_link) to see the system in action!
 
 ## Contributors
 
